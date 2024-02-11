@@ -34,7 +34,8 @@
 "detail_first_button":"first button",
 "detail_second_button":"12MB",
 "detail_text_title":"how to use title text",
-"detail_text1":"1) The most famous world of Toca-Boka has been taken into a single game called Toca Life World, and after adopting that mentioned series of games, it has been an animated game where you are supposed to have your own world. Whatever you have dreamed of achieving, this world gives you the whole chance, and we see everything connected here. And if you are just a starter for this game, here is our Toca Life World beginner guide and the tips for becoming a successor in this life simulation game. ", 
+"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
+ 
 "banner_network_choice":"admob", 
 "interstisial_network_choice":"admob", 
 "reward_network_choice":"admob",
@@ -46,38 +47,46 @@
 },
  
  "my_data":[
-  {"title":"Toca-Boka",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://tocaboca.com/wp-content/uploads/2018/11/tocabocadotcom_header-2000x800.png"},
-  {"title":"title2 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
+  {"title":"title1 ser",
+  "description":"description text description text description text description text description text 1",
   "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-
-   ],
- 
    
+  {"title":"title2 ser",
+  "description":"description text description text description text description text 2",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title3 ser",
+  "description":"description text description text description text description text 3",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title4 ser",
+  "description":"description text description text description text description text 4",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title5 ser",
+  "description":"description text description text description text description text 5",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title6 ser",
+  "description":"description text description text description text description text 6",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title7 ser",
+  "description":"description text description text description text description text 7",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+   
+  {"title":"title8 ser",
+  "description":"description text description text description text description text 8",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   ],
+  
+  "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ]
  
 }
    
